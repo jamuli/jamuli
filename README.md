@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jamuli
+👋 Hi, I’m @jamuli
 I have my B.S. in Civil and Environmental Engineering but I have a minor in Computer Science and love to code.
 I'm still teaching myself a lot about Web Development, AI, and Machine Learning but am interested in finding new interesting projets that intersect my two disciplines of study
 CEE and CS. 
